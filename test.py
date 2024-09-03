@@ -13,7 +13,7 @@ def test_multiply():
     assert multiply(3,4) == 12
 
 def test_mod():
-    assert mod(1,2) == 2
+    assert mod(1,2) == 1
     assert mod(3,4) == 3
 
 test_mod()
